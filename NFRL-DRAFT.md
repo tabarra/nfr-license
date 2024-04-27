@@ -1,6 +1,6 @@
 The NoFreeRide License DRAFT (NFRL-DRAFT)
 
-Copyright (c) <year> <copyright holders>
+Copyright (c) 4-digit year, Company or Person's Name
 
 Permission to use, copy, modify, and/or distribute this software for any non-commercial purposes or Commercial Purposes in accordance with the Commercial Use Guideline, with or without fee, is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
 
