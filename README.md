@@ -1,7 +1,9 @@
 # The NoFreeRide License (NFRL)
 
-The NFR License is a source-available (not open source!) license based of the [MIT](https://www.tldrlegal.com/license/mit-license)/[ISC](https://www.tldrlegal.com/license/isc-license) licenses but disallows [harmful free-riding](https://en.wikipedia.org/wiki/Free-rider_problem).  
-**The main difference from MIT/ISC is** the definition that it can only be used for commercial purposes if it follows the _Commercial Use Guideline_, which was designed **to prevent business and individuals from getting rich off your software**.
+The NFR License is a source-available (not open source!) license based of the [MIT](https://www.tldrlegal.com/license/mit-license)/[ISC](https://www.tldrlegal.com/license/isc-license) licenses but disallows [harmful free-riding](https://en.wikipedia.org/wiki/Free-rider_problem).  **The main difference from MIT/ISC is** the definition that it can only be used for commercial purposes if it follows the _Commercial Use Guideline_, which was designed **to prevent business and individuals from getting rich off your software**.  
+  
+Full Raw Text:
+- [DRAFT version](https://raw.githubusercontent.com/tabarra/nfr-license/main/NFRL-DRAFT.txt)
 
 ## Who is this license for?
 
